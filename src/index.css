@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+table td,
+th {
+  padding: 5px;
+}
+
+.active-pg-num {
+  background-color: black;
+  color: white;
+}
